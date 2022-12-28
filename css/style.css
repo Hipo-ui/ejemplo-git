@@ -8,3 +8,7 @@ body {
     background-color: tomato;
     color: azure;
 }
+
+ul li {
+    list-style: none;
+}
