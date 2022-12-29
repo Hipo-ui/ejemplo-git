@@ -1,2 +1,2 @@
 # ejemplo-git
-Practcando con git
+Practcando con git...
